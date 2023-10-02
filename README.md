@@ -16,7 +16,7 @@ We thought about everything, so this dashboard comes with 2 versions, Dark Mode 
 We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
 
-## Table of Contents
+## Table of Content
 
 
 * [Demo](#demo)
