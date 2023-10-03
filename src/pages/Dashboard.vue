@@ -142,12 +142,13 @@
       UserTable
     },
     data() {
+      const data_pulled = require('../modules/pull_data')
       return {
         bigLineChart: {
           allData: [
-            [1, 2, 3, 4, 5, 6, 7, 8, 9, 80, 110, 100,400],
-            [1, 2, 3, 4, 5, 6, 7, 8, 9, 80, 110, 100],
-            [1, 2, 3, 4, 5, 6, 7, 8, 9, 80, 110, 100]
+          data_pulled,
+          data_pulled,
+          data_pulled
           ],
           activeIndex: 0,
           chartData: {
